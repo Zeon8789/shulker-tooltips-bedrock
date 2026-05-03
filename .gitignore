@@ -1,0 +1,24 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.mcpack
+*.zip
+build/
+dist/
+
+# Node
+node_modules/
+package-lock.json
+
+# Temp
+*.tmp
+*.bak
+~*
